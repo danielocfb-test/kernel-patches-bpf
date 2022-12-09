@@ -6,7 +6,7 @@
 # old email addresses to map to new email addresses.
 #
 # For format details, see "MAPPING AUTHORS" in "man git-shortlog".
-#
+
 # Please keep this list dictionary sorted.
 #
 Aaron Durbin <adurbin@google.com>
